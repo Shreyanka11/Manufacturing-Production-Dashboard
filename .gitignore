@@ -1,0 +1,16 @@
+# Local dataset files
+Data/*.csv
+Data/*.zip
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Python cache, if used later
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.venv/
